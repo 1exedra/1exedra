@@ -1,14 +1,10 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1exedra&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=10&theme=highcontrast&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=1exedra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=1exedra&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=15" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1exedra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=highcontrast&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1exedra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=1exedra&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=15" height="150" alt="streak graph" />
 </div>
 
-###
-
 <img align="right" height="163" src="https://media.giphy.com/media/b4ab9TBk9Ornvrt9W8/giphy.gif?cid=790b7611xxfl88uumyxx00j86l0pjdet77cpq4g6r1jhtag0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="30" alt="digitalocean logo"  />
@@ -90,10 +86,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="30" alt="erlang logo"  />
 </div>
 
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/1exedra/1exedra/output/snake.svg" alt="Snake animation" />
-
-###
